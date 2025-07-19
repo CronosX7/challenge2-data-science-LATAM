@@ -67,3 +67,9 @@ Se exploraron variables categóricas y numéricas en relación con la evasión. 
 
 ## 📂 Estructura del Proyecto
 
+challenge2-data-science-LATAM/
+└── README.md # Este archivo
+├── TelecomX_Data.json # Archivo de datos
+└── TelecomX_diccionario.md # Diccionario de datos
+├── TelecomXEDA.ipynb 
+---
